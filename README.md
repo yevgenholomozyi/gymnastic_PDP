@@ -5,7 +5,7 @@ Please note the author of the course uses some horrible practices like  selectio
 
 I've also ommited minification of the .css files by intention in order to make the review via borwsers a bit simplier.
 
-How to use: just clone, go to the "up" folder and run index.html.
+HOW TO USE: just clone, go to the "up" folder and run index.html.
 You'll probably gonna need the live SASS compiler as an extion to VS.code (once you use VS.code) https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
 Please look for another extension for you code editor or IDE if it it's not VS.code
 
